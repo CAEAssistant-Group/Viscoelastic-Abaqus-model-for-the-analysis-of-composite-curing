@@ -10,3 +10,5 @@ The Abaqus viscoelastic model is well recognized as a promising approach for ana
 In this repository, we have provided the complete .inp file, while some parts of the subroutines for the Abaqus viscoelastic model, written in Fortran, are also included. The subroutines provided are DISP, USDFLD, UMAT, HETVAL, and UEXPAN. More details regarding these models, along with theoretical explanations and the full Fortran codes for the Abaqus viscoelastic curing model, are available in our full package. You can access it through the link provided in the "About" section on the right side.
 
 ![image](https://github.com/user-attachments/assets/ab3a5bfb-d423-4cdc-8fad-7b9f422b7577)
+
+**ℹ️ This is just a demo to show how the code is structured. For the full, working version, please visit our website.**
